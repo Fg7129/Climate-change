@@ -1,0 +1,154 @@
+body {
+    background-color: red;
+}
+
+.info{
+    text-align: right ;
+}
+
+#bg-color {
+    background-color: chartreuse;
+}
+
+#Head{
+    text-align: center;
+    background-color: aqua;
+ }
+ 
+ .header{
+     background-color: aqua;
+ }
+ 
+ 
+ 
+ #Site{
+     display:flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+ }
+ 
+ #Card{
+     border: 2px solid rgb(0, 255, 38);
+     border-right: 50%;
+     border-left: 50%;
+     border-top: 50%;
+     border-bottom: 30%;
+     height: 500px;
+     width: 4000px;
+     padding: 10;
+     background-color: blue;
+     text-align: center;
+ }
+ 
+ #group{
+     border: 2px solid rgb(0, 255, 38);
+     border-right: 50%;
+     border-left: 50%;
+     border-top: 50%;
+     border-bottom: 30%;
+     height: 500px;
+     width: 4000px;
+     padding: 10;
+     background-color: blue;
+ }
+ 
+ #img{
+     width: 100%;
+ }
+ 
+ a{
+     text-decoration: none ;
+     color: inherit;
+ }
+ 
+ .link{
+     background-color: aqua;
+     border: 1px solid aqua;
+     color:red;
+     text-decoration: none;
+     border-right: 50%;
+     border-left: 50%;
+     border-top: 50%;
+     border-bottom: 30%;
+     height: 500px;
+     width: 4000px;
+     padding: 4px;
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ .link3{
+     background-color: yellow;
+ }
+ 
+ .head{
+     height:200px;
+     width:50px;
+     display: flex;
+     justify-content: space-between;
+     flex-direction: row-reverse;
+ }
+ 
+ #dp{
+     height:75px;
+     width: 75px;
+     border-radius: 50%;
+     border: 2px solid red;
+ }
+ 
+ .title_class{
+     border: 2px solid red;
+ }
+ 
+ .text_bold{
+    font-weight: 900; 
+ }
+ 
+ .h-75{
+     height: 75px;
+ }
+ 
+ .flex-column{
+    display: flex;
+    flex-direction: row;
+ }
+ 
+ .tile h1{
+     text-align: center;
+ }
+ 
+ .pic img{
+     height: 130px;
+     width: 130px;
+     border-radius: 50%;
+     float: left;
+ }
+
+ 
+ 
+ 
+ .question-container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+.question {
+    font-size: 1.2em;
+}
+.answer {
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+.answer:hover {
+    background-color: #45a049;
+}

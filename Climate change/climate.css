@@ -1,0 +1,109 @@
+h1 {
+    text-align: center;
+    background-color: rgb(17, 0, 255);
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    background-color:red ;
+}
+
+.end {
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+}
+
+.vid {
+    text-align: right;
+}
+
+body {
+    background-color:rgb(255, 255, 255) ;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.key {
+    background-color: chartreuse;
+}
+
+.im {
+    background-color: aqua;
+}
+
+.mit {
+    background-color: yellow;
+}
+
+.side1 {
+    text-align: right;
+}
+
+.side2 {
+    text-align: left;
+}
+
+.side3 {
+    text-align: right;
+}
+
+.side4 {
+    text-align: left;
+}
+
+.side5 {
+    text-align: right;
+}
+
+.side6 {
+    text-align: left;
+}
+
+.side7 {
+    text-align: right;
+}
+
+.side8 {
+    text-align: left;
+}
+
+.side9 {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+}
+
+.h3 {
+    text-align: center;
+    background-color: cyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.Finale {
+    background-color: chartreuse;
+}
+
+.tree {
+    text-align: right;
+}
+
+
